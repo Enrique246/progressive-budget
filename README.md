@@ -43,10 +43,8 @@ When brought back online:
 
 ## Resources
 - https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API
-- https://docs.mongodb.com/manual/reference/operator/aggregation/sum/
+- https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json
 - Ask BCS
-- https://mongoosejs.com/docs/api.html#aggregate_Aggregate
-
 
 ## Credits
 - Enrique Del Castillo Chávez
