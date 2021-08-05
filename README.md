@@ -42,7 +42,7 @@ When brought back online:
 [Heroku Deploy Link](https://rocky-hamlet-54478.herokuapp.com/)
 
 ## Resources
-- https://docs.mongodb.com/manual/reference/operator/aggregation/addFields/
+- https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API
 - https://docs.mongodb.com/manual/reference/operator/aggregation/sum/
 - Ask BCS
 - https://mongoosejs.com/docs/api.html#aggregate_Aggregate
