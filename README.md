@@ -52,9 +52,6 @@ When brought back online:
 - Enrique Del Castillo Chávez
 
 ## Tests
-- Routes work
-- Workout inputs work
-- Buttons work
-- Navbar directs you correctly
-- All data appears as it should
-- Deploy done successfully
+- Enter expenses offline work 
+- Enter deposits offline work
+- Offline entries are added to tracker
